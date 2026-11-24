@@ -1,4 +1,4 @@
 # firstrepository-demo
 This is my first git repository.
 <br>
-Author-Ahmad Raza
+Author-Ahmad Raza Bin Imran Shehzad
